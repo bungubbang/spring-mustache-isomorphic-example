@@ -20,6 +20,7 @@ https://speakerdeck.com/sdeleuze/isomorphic-templating-with-spring-boot-nashorn-
 # Isomorphic 예제 사이트
 - https://github.com/bungubbang/spring-mustache-isomorphic-example
 - https://github.com/bungubbang/spring-handlebars-isomorphic-example
+- https://github.com/bungubbang/spring-react-isomorphic-example
 
 
 
