@@ -14,6 +14,12 @@ Spring 의 ScriptTemplate을 활용한 Mustache 예제 프로젝트 입니다.
 ```
 $ ./gradlew bootRun
 ```
+# 참조
+https://speakerdeck.com/sdeleuze/isomorphic-templating-with-spring-boot-nashorn-and-react
+
+# Isomorphic 예제 사이트
+- https://github.com/bungubbang/spring-mustache-isomorphic-example
+- https://github.com/bungubbang/spring-handlebars-isomorphic-example
 
 
 

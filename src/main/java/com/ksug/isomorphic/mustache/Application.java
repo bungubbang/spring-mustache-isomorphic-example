@@ -15,7 +15,7 @@ public class Application {
     }
 
     @Bean
-    public ScriptTemplateConfigurer handlebarsConfigurer() {
+    public ScriptTemplateConfigurer mustacheConfigurer() {
         ScriptTemplateConfigurer configurer = new ScriptTemplateConfigurer();
         configurer.setEngineName("nashorn");
         configurer.setScripts(
